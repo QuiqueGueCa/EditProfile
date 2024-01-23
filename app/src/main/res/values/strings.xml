@@ -2,5 +2,12 @@
     <string name="app_name">EditProfile</string>
     <string name="menu_close">Cerrar perfil</string>
     <string name="mailAdress">Correo electrónico</string>
-    <string name="mailContent">a.jimenez@vass.com</string>
+    <string name="mailContent">a.jimenez@vass.es</string>
+    <string name="phone">Teléfono móvil</string>
+    <string name="name">Nombre completo</string>
+    <string name="nameContent">Alejandro Jiménez</string>
+    <string name="office">Oficina</string>
+    <string name="officeContent">VASS Madrid</string>
+    <string name="aboutMe">Sobre mí</string>
+    <string name="btnText">Actualizar</string>
 </resources>

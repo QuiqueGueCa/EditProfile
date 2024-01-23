@@ -3,8 +3,18 @@
     <dimen name="pictureSize">152dp</dimen>
     <dimen name="robotoMediumSize">14sp</dimen>
     <dimen name="txtMarginLeft">64dp</dimen>
-    <dimen name="txtLargeMarginTop">36dp</dimen>
-    <dimen name="imgMarginTop">68dp</dimen>
+    <dimen name="txtMarginTopBiggest">36dp</dimen>
+    <dimen name="imgMarginTop">24dp</dimen>
     <dimen name="robotoRegularSize">16sp</dimen>
     <dimen name="txtMarginTopMedium">10dp</dimen>
+    <dimen name="txtMarginTopLarge">21dp</dimen>
+    <dimen name="etHeight">48dp</dimen>
+    <dimen name="etWidth">295dp</dimen>
+    <dimen name="etMarginTop">6dp</dimen>
+    <dimen name="txtMarginTopMin">16dp</dimen>
+    <dimen name="txtMarginTopAlmostLarge">20dp</dimen>
+    <dimen name="btnWidth">343dp</dimen>
+    <dimen name="btnHeight">56dp</dimen>
+    <dimen name="btnMarginTop">79dp</dimen>
+    <dimen name="btnMarginBottom">24dp</dimen>
 </resources>
