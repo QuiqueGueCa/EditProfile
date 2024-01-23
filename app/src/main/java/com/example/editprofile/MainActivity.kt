@@ -1,6 +1,7 @@
 package com.example.editprofile
 
 import android.os.Bundle
+import android.view.Menu
 import androidx.appcompat.app.AppCompatActivity
 import com.example.editprofile.databinding.ActivityMainBinding
 
@@ -21,4 +22,8 @@ class MainActivity : AppCompatActivity() {
         this.supportActionBar?.setDisplayHomeAsUpEnabled(true)
     }
 
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_close, menu)
+        return true
+    }
 }
