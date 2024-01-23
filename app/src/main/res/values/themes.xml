@@ -4,11 +4,11 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="colorPrimary">@color/black</item>
+        <item name="android:textColorPrimary">@color/white</item>
     </style>
 
     <style name="Theme.EditProfile" parent="Base.Theme.EditProfile">
 
-        <item name="colorPrimary">@color/black</item>
 
     </style>
 </resources>
